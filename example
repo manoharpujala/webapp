@@ -1,0 +1,15 @@
+git clone <URL>
+ls
+
+cd <directory_name>
+touch git-commands
+ls
+git status
+git add git-commands
+git status
+git commit -m "first commit" git-commands
+git status
+git log
+git show <commit_id>
+
+git push
